@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Calculator from './Calculator.jsx.jsx';
+import Calculator from './Calculator.jsx';
 
 
 
